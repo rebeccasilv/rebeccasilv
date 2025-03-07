@@ -5,10 +5,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamrebeccasilva) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-silva-478809247/) [![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/rebecca-silva-478809247/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/766331015169048617)
 
 
-![Rebecca Silv GitHub stats](https://github-readme-stats.vercel.app/api?username=rebeccasilv&show_icons=true&theme=radical)
+![Rebecca Silv GitHub stats](https://github-readme-stats.vercel.app/api?username=rebeccasilv&show_icons=true&theme=radical) (https://github-readme-stats.vercel.app/api?username=projetos&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccasilv&show_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccasilv&show_repo=github-readme-stats,anuraghazra.github.io) (https://github-readme-stats.vercel.app/api/top-langs/?username=projetos&show_repo=github-readme-stats,anuraghazra.github.io)
 
 
 ### 🧠 Tecnologias
